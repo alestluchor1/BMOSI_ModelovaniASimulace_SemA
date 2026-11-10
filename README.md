@@ -1,0 +1,1 @@
+# BMOSI_ModelovaniASimulace_SemA
