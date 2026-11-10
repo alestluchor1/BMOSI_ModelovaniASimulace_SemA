@@ -1,0 +1,19 @@
+[RESOURCES]
+[VARIABLES]
+p1
+p2
+IF soucet vetsi nez 28_S3.NumberOut True
+Konec_S3.NumberOut
+l
+SoucetDelky
+IF soucet vetsi nez 28.NumberOut True
+IF soucet vetsi nez 26.NumberOut True
+IF soucet vetsi nez 28_S3.NumberOut False
+IF soucet vetsi nez 28.NumberOut False
+IF soucet vetsi nez 26.NumberOut False
+d1
+d3
+d2
+Zacni_Simulaci_S3.NumberOut
+Zacni_Simulaci.NumberOut
+Konec.NumberOut

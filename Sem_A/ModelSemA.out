@@ -1,0 +1,54 @@
+
+                                      ARENA Simulation Results
+                                          - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :10/13/2025
+Analyst: None                                                        Model revision date:10/13/2025
+
+Replication ended at time      : 10084.345 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .00000     .00000     .00000     .00000      20000    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000      20000    
+Entity 1.WaitTime                           .00000     .00000     .00000     .00000      20000    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000      20000    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000      20000    
+Entity 1.TotalTime                          .00000     .00000     .00000     .00000      20000    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .00000     (Insuf)    .00000     1.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+pocetMensinez4                                 9903  Infinite
+S3_pocetNakladu                                9095  Infinite
+NeveselMensiNez2                               2303  Infinite
+S3_NeveselMensiNez2                            1819  Infinite
+pocetNakladu                                  11515  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           20000.    
+Entity 1.NumberOut                          20000.    
+System.NumberOut                            20000.    
+
+
+Simulation run time: 0.23 minutes.
+Simulation run complete.
